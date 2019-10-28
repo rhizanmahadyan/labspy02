@@ -1,6 +1,6 @@
 # labspy02
 
-#labpy1 Penjelasan Program
+#labspy02 Penjelasan Program
 
    1. Input bilangan sebanyak 3 buah Inputan.
    2. Setelah bilangan di masukkan, maka program akan membandingkan ke 3 buah bilangan tersebut.
