@@ -9,3 +9,5 @@
    5. Bandingkan kembali (H) dengan (R) dan (I). Apabila bernilai true maka akan tercetak nilai (H).
    6. Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (I).
    7. Nilai yang tercetak merupakan nilai terbesar. dan Berikut hasilnya :
+   ![Screenshot (48)](https://user-images.githubusercontent.com/56858095/67764470-9db0a900-fa7c-11e9-8dde-152a13e124a2.png)
+
